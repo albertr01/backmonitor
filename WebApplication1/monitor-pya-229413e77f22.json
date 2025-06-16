@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "monitor-pya",
+  "private_key_id": "229413e77f22464d19887f7bae2a90ec47266bd2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCeV5jWzF9Fi/Ik\nXhrLq6/pnshfwdH+O1IG2bivmEcDGnKz0OaGstF2wc6VU86rX2SCA+ITCjTgtrER\nfMkX/ulWIFd3oJVr2WBgaxZ1MGIzXPgeaG+tEs66uXiLRrIUy0QAtwvWSbf7RyY2\nJ+ch6icF/2hPc2gBMUDM7YplF7HhIXmrfLGA5OCxinIBaUZ+zqnaPBopUETGXR66\nZwnyj5OEgr0ZDPmvwZ0oXZLkM4+yipUUMWDZSwx/gkPcCx829m/XkPOh95xPVdco\nA0NhYoJrovkDusLnu84ZaQxseuRTIWYLiAvIbaT5Pmt2lnN6f9rJArMh5LviJ550\nX2nvROVvAgMBAAECggEABh4EcBjEl329tMz6UQlvFuH4Ny0+prx1wbQyNkp2RKof\n0BwCdyXvNLZt4jpmJU9epS08OmSuQH43+G2vOseYDfVBTwRVSxQPU215S4nufH7o\nSqVADab729F9iDfxE+xhOK8M4uvFkvLsbxj683lfcscrj8igHIFIHrXda/41DfYu\nOzlwqjCdRDnutJGT8flDahFYWroO8XY4wRqdH0h1NqJ+PGhHnTYkGi4VJMpWsF5A\nYh5tNqSy/au6DoW4iyFXLMgycnupmlRcR3DcXSQPotHu6zo9KcEdvpsI/38dmSCs\n3+OZi0zxNG4QC5I5y6Q6X9qg+MfCxT/HrBRlw91uHQKBgQDV8PBULhBeNreAJxqe\n4L1PN7joxksjCyRhi7+LzZhAkn+YMdS0J6u2YFWvnTCWY77E+KCglaita5sy5jeN\nsKNr3UX/JnVC2SXdjAQ96aBI3b3VAj4Ge/uEtBfEH9zJDUFED/2uBci26pki6Ste\nxA8C9+sVj4dnrynbSt45YCzSdQKBgQC9eIQvlBQSXXY5S/8w7fQsydkqFFMxDCS1\nHwaibEVSC9XHdRsMd1DjOF2JGapnWuUYZOOoZ8JwoimQO3u3stg0/lR01VL18KfE\n4/t7ZvOjuLVFdPgUs1ld+sKJAaIXPpFl9lssyF5TCdYKhKKAqSw9B49Ohey86upB\nkEkuL8nT0wKBgQCRI9UXduy5zestsNm5gYRM8uOqX6Rn0M5Msw8u3Dr3S6vuZ5gC\n5Ir0vmRDMKPe0yp/3KC0cPOvOzpeDJsRsA0eR06Oa9vPjxvGMpBKJG4OIQkBMnU7\n1u7qt3cMIgWaDDkD4MlcPyZNGdjsOz2mG+KHRAQja20UJVyDHkamrB2cZQKBgQCF\nQpRGGnIbkJysI+Vydoo8TiNtUypH3vCaax3xcxE2aZiMVrMVi33asjQnT2Pomad0\nBtGQCppZOdTd2thjFWi3rQGdwsQ8smxtMKQZ4QkPZ8Qm++PYO2Rpkwrr7bghfSIq\ngqER2ENvSAXBFBRvRY0Vx5FlexBMtzTXtDGkSHw9fQKBgQCwdWBAG2uzsGhZLV/q\n6I34BIPimcGOF1GYLkHHqkQpntCLjDuECwOayi8yw6Urpj1JqR/yxcdtjbLL9EfB\nGN85GtNm/wlkhU6Mu8v7WFE0tWanBMZb7SYGp/83wpXTrt63NhVXlRkGQgzz/gKH\nhW4cwptz3xGi48Lu9wJgOBpGZg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoreo-gemini@monitor-pya.iam.gserviceaccount.com",
+  "client_id": "109031389998480409733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoreo-gemini%40monitor-pya.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,54 @@
+﻿Hola Gemini, por favor actúa como un oficial de cumplimiento normativo. experto en gestión de riesgos, director de una empresa del sector financiero, para que por favor me ayudes a hacer una búsqueda profunda, de la información de la persona  {promptBase}, para aplicar la política &quot;Conozca Bien a su Cliente&quot;, comúnmente aplicada en los procesos de prevención contra legitimación de capitales, financiamiento al con el propósito de documentar todo lo relacionado con sus actividades económicas, asuntos jurídicos y tributarios, presencia en redes sociales, así como sus relaciones comerciales. Por favor estructura tu respuesta según lo que consideres, para que el resultado sea profesional, conciso y organizado.
+
+Por favor estructura tu respuesta según lo que consideres, para que el resultado sea profesional, conciso y organizado rellenando los item que te detallo en el texto de abajo.
+
+1.	Datos deIdentificación
+	Nombres y Apellidos:
+	Documento de Identificación:
+	Fecha de Nacimiento
+	Página Web:
+	Dirección:
+	Correo Electrónico de Contacto:
+
+2.	Actividad EconómicaPrincipal
+	En qué se especializa:
+	Productos o servicios que ofrecen:
+	Su enfoque principal:
+
+4.	Presencia en RedesSociales:
+	Análisis de Redes:
+	Sitio Web: https:
+	Redes Sociales:
+
+	Noticias y Medios:
+	Realizar una búsqueda en Google News y otros medios de comunicación para identificar
+	menciones de la persona.
+	Reputación en Línea:
+	Comentarios y Reseñas:
+	Foros y Blogs:
+	Buscar menciones de la persona en foros y blogs:
+	Interacciones:
+	Engagement:
+	Controversias:
+
+5.	Relaciones
+	Comerciales:
+	Clientes:
+	Tipos de Clientes:
+	Clientes Relevantes:
+
+	Clientes de alto perfil o políticamente expuestos (PEP).
+	Proveedores:
+
+6.	Relaciones Personales Pareja:
+	Hijos:
+	Madre:
+	Padre:
+
+7.	Evaluación de Riesgos Riesgo Reputacional:
+	Riesgo Financiero:
+	Riesgo de Lavado de Dinero:
+
+8.	Recomendaciones Diligencia Debida:
+	Monitoreo Continuo:
+	Reporte de Operaciones Sospechosas:
