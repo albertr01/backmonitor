@@ -1,0 +1,10 @@
+.vs/
+bin/
+obj/
+*.pdb
+*.exe
+*.dll
+*.cache
+/WebApplication1/bin/
+/WebApplication1/obj/
+WebApplication1/logs/
